@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin-left: 500px; 
+  margin-right: 500px;
+}
+
+img {
+  margin-left: 200px; 
+  margin-right: 200px;
+}
+
+#featured-property {
+  width: 900px;
+}
+
+figure {font-size: 20px};
+
+nav {
+  margin-left: 450px; 
+  margin-right: 450px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background:darksalmon;
+}
